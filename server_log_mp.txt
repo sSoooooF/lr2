@@ -1,0 +1,46 @@
+2024-11-25 21:58:39,494 - Server configuration: Address=127.0.0.1, Port=3000
+2024-11-25 21:58:39,495 - Server started and listening for connections
+2024-11-25 21:58:39,495 - Waiting for a new connection...
+2024-11-25 22:00:52,031 - Server configuration: Address=127.0.0.1, Port=3000
+2024-11-25 22:00:52,032 - Threaded server started and listening for connections
+2024-11-25 22:00:52,032 - Waiting for a new connection...
+2024-11-25 22:00:55,051 - Accepted connection from ('127.0.0.1', 60805)
+2024-11-25 22:00:55,057 - Waiting for a new connection...
+2024-11-25 22:01:20,540 - Accepted connection from ('127.0.0.1', 60819)
+2024-11-25 22:01:20,545 - Waiting for a new connection...
+2024-11-25 22:03:29,904 - Server configuration: Address=127.0.0.1, Port=3000
+2024-11-25 22:03:29,905 - Threaded server started and listening for connections
+2024-11-25 22:03:29,905 - Waiting for a new connection...
+2024-11-25 22:03:33,288 - Accepted connection from ('127.0.0.1', 60859)
+2024-11-25 22:03:33,288 - Client connected: ('127.0.0.1', 60859)
+2024-11-25 22:03:33,288 - Waiting for a new connection...
+2024-11-25 22:03:33,316 - Received message: Нуриев Наиль Ниязович, М3О-411Б-21
+2024-11-25 22:03:33,317 - Sent message: 12-Б114-О3М ,чивозяиН ьлиаН веируН. Сервер написан Нуриевым Н.Н.. М3О-411Б-21
+2024-11-25 22:03:33,325 - Client disconnected: ('127.0.0.1', 60859)
+2024-11-25 22:03:46,988 - Accepted connection from ('127.0.0.1', 60867)
+2024-11-25 22:03:46,988 - Client connected: ('127.0.0.1', 60867)
+2024-11-25 22:03:46,988 - Waiting for a new connection...
+2024-11-25 22:03:47,017 - Received message: Нуриев Наиль Ниязович, М3О-411Б-21
+2024-11-25 22:03:47,017 - Sent message: 12-Б114-О3М ,чивозяиН ьлиаН веируН. Сервер написан Нуриевым Н.Н.. М3О-411Б-21
+2024-11-25 22:03:47,026 - Client disconnected: ('127.0.0.1', 60867)
+2024-11-25 22:04:06,606 - Accepted connection from ('127.0.0.1', 60896)
+2024-11-25 22:04:06,606 - Client connected: ('127.0.0.1', 60896)
+2024-11-25 22:04:06,606 - Waiting for a new connection...
+2024-11-25 22:04:06,634 - Received message: Нуриев Наиль Ниязович, М3О-411Б-21
+2024-11-25 22:04:06,634 - Sent message: 12-Б114-О3М ,чивозяиН ьлиаН веируН. Сервер написан Нуриевым Н.Н.. М3О-411Б-21
+2024-11-25 22:04:06,647 - Client disconnected: ('127.0.0.1', 60896)
+2024-11-25 22:04:10,894 - Accepted connection from ('127.0.0.1', 60902)
+2024-11-25 22:04:10,894 - Client connected: ('127.0.0.1', 60902)
+2024-11-25 22:04:10,894 - Waiting for a new connection...
+2024-11-25 22:04:10,925 - Received message: Нуриев Наиль Ниязович, М3О-411Б-21
+2024-11-25 22:04:10,925 - Sent message: 12-Б114-О3М ,чивозяиН ьлиаН веируН. Сервер написан Нуриевым Н.Н.. М3О-411Б-21
+2024-11-25 22:04:10,935 - Client disconnected: ('127.0.0.1', 60902)
+2024-11-25 22:05:02,285 - Server configuration: Address=127.0.0.1, Port=3000
+2024-11-25 22:05:02,286 - Threaded server started and listening for connections
+2024-11-25 22:05:02,286 - Waiting for a new connection...
+2024-11-25 22:05:04,931 - Accepted connection from ('127.0.0.1', 60919)
+2024-11-25 22:05:04,932 - Client connected: ('127.0.0.1', 60919)
+2024-11-25 22:05:04,932 - Waiting for a new connection...
+2024-11-25 22:05:04,963 - Received message: Нуриев Наиль Ниязович, М3О-411Б-21
+2024-11-25 22:05:04,963 - Sent message: b'12-\xd0\x91114-\xd0\x9e3\xd0\x9c ,\xd1\x87\xd0\xb8\xd0\xb2\xd0\xbe\xd0\xb7\xd1\x8f\xd0\xb8\xd0\x9d \xd1\x8c\xd0\xbb\xd0\xb8\xd0\xb0\xd0\x9d \xd0\xb2\xd0\xb5\xd0\xb8\xd1\x80\xd1\x83\xd0\x9d. \xd0\xa1\xd0\xb5\xd1\x80\xd0\xb2\xd0\xb5\xd1\x80 \xd0\xbd\xd0\xb0\xd0\xbf\xd0\xb8\xd1\x81\xd0\xb0\xd0\xbd \xd0\x9d\xd1\x83\xd1\x80\xd0\xb8\xd0\xb5\xd0\xb2\xd1\x8b\xd0\xbc \xd0\x9d.\xd0\x9d.. \xd0\x9c3\xd0\x9e-411\xd0\x91-21'
+2024-11-25 22:05:04,973 - Client disconnected: ('127.0.0.1', 60919)

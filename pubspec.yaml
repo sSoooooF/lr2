@@ -1,0 +1,7 @@
+name: lr2
+
+environment:
+  sdk: '^3.5.0'
+
+dependencies:
+  intl: ^0.20.0
